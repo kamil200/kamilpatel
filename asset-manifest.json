@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kamilpatel/static/css/main.073c9b0a.css",
+    "main.js": "/kamilpatel/static/js/main.9318f996.js",
+    "index.html": "/kamilpatel/index.html",
+    "main.073c9b0a.css.map": "/kamilpatel/static/css/main.073c9b0a.css.map",
+    "main.9318f996.js.map": "/kamilpatel/static/js/main.9318f996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9318f996.js"
+  ]
+}
